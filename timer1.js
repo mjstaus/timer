@@ -1,4 +1,3 @@
-// 'use strict';
 const args = process.argv;
 let relevantArgs = args.slice(2);
 
